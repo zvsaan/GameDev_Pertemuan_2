@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dyw847pwypti6"
+path="res://.godot/imported/mars pdi.mp3-6c418060dcf610e5de1ec5b2bf1c3a3a.mp3str"
+
+[deps]
+
+source_file="res://Assets/Music/mars pdi.mp3"
+dest_files=["res://.godot/imported/mars pdi.mp3-6c418060dcf610e5de1ec5b2bf1c3a3a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

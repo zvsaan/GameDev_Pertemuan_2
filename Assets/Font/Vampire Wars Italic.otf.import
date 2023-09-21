@@ -1,0 +1,33 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://by0hc8yqulxco"
+path="res://.godot/imported/Vampire Wars Italic.otf-77d854c9ae77008c66032da6974691f9.fontdata"
+
+[deps]
+
+source_file="res://Assets/Font/Vampire Wars Italic.otf"
+dest_files=["res://.godot/imported/Vampire Wars Italic.otf-77d854c9ae77008c66032da6974691f9.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}
